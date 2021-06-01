@@ -1,6 +1,6 @@
 # HEllO Everone
 
-<h1 align="center"> Nihar Sanda - koolgax99 </h1>
+<h1 align="center"> Gaurang Belekar -GB</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
