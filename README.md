@@ -1,6 +1,6 @@
-# Hi Everone. Welcome to my Github Profile
-------
-<h1 align="center"> Gaurang Belekar -GB</h1>
+### 👋🏼 Hi! Welcome to my Github Profile
+
+<h1 align="center"> Gaurang Belekar - GB</h1>
 
 ---
 
@@ -16,23 +16,24 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-the-badge&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat-the-badge&logo=Java)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat-the-badge&logo=C%&logoColor=00599C)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A??style=flat-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A??style=flat-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat-the-badge&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Qiskit](https://img.shields.io/badge/-Qiskit-05122A?style=flat-the-badge&logo=qiskit&logoColor=2C2255)&nbsp;
 
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/koolgax99">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koolgax99&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koolgax99&layout=compact&langs_count=8&theme=blue-green"/>
+<a href="https://github.com/Gaurang-Belekar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaurang-Belekar&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaurang-Belekar&layout=compact&langs_count=8&theme=blue-green"/>
 </a>
 </p>
 ---
@@ -40,7 +41,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gaurang-belekar-ba27171b7/"><img src="https://img.shields.io/badge/-Nihar%20Sanda-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:zaz.kem22@gmail.com"><img src="https://img.shields.io/badge/-nihar.sanda@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/90rakeleb_gnaruag/"><img src="https://img.shields.io/badge/-n_sanda-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/zaz.kem"><img src="https://img.shields.io/badge/-Nihar Sanda-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gaurang-belekar-ba27171b7/"><img src="https://img.shields.io/badge/-Gaurang%20Belekar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zaz.kem22@gmail.com"><img src="https://img.shields.io/badge/-zaz.kem22@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/90rakeleb_gnaruag/"><img src="https://img.shields.io/badge/-90Rakeleb_gnaruag-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/zaz.kem"><img src="https://img.shields.io/badge/-Gaurang%20Belekar-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
