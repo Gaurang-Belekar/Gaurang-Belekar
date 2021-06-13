@@ -24,7 +24,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A??style=flat-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat-the-badge&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Qiskit](https://img.shields.io/badge/-Qiskit-05122A?style=flat-the-badge&logo=qiskit&logoColor=2C2255)&nbsp;
+![Qiskit](https://img.shields.io/badge/-Qiskit-05122A?style=flat-the-badge&logo=qiskit&logoColor=2C2255)&nbsp;\
+
 
 ---
 
@@ -32,8 +33,8 @@
 
 <p align="center">
 <a href="https://github.com/Gaurang-Belekar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaurang-Belekar&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaurang-Belekar&layout=compact&langs_count=8&theme=blue-green"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaurang-Belekar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaurang-Belekar&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
 ---
