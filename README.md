@@ -10,7 +10,11 @@
 🌱 &nbsp;I'm a Currently a Fresher upgrading my Skills in App Devlopment, Learning Linux Kernal Devlopment.\
 🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning QC.
 ✍️ &nbsp;I play Guitar or do Yoga in my Free Time.\
-✉️ &nbsp;You can connect wit me via email at zaz.kem22@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can connect wit me via email at zaz.kem22@gmail.com! I'll try to respond as soon as I can. 
+
+
+![Counter](https://visitor-badge.glitch.me/badge?page_id=Gaurang-Belekar.visitor-badge)
+
 
 ---
 
@@ -32,6 +36,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Gaurang-Belekar&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
+
 <a href="https://github.com/Gaurang-Belekar">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaurang-Belekar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaurang-Belekar&layout=compact&langs_count=8&theme=vue-dark"/>
