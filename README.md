@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a Electronic and Communication Student at IIIT Dharwad, Karnataka .\
-🌱 &nbsp;I'm a Currently a Fresher upgrading my Skills in App Devlopment, Learning Linux Kernal Devlopment.\
+🌱 &nbsp;I'm a Currently a 2nd year student upgrading my Skills in App Devlopment, Learning Linux Kernal Devlopment, micro-processors.\
 🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning QC.
 ✍️ &nbsp;I play Guitar or do Yoga in my Free Time.\
 ✉️ &nbsp;You can connect wit me via email at zaz.kem22@gmail.com! I'll try to respond as soon as I can. 
