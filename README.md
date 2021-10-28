@@ -44,7 +44,7 @@
 </a>
 </p>
 
----
+
 <hr>
 <h2 align="center">Github Trophies</h2>
 <p align="center">
