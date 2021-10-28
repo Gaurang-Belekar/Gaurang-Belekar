@@ -43,6 +43,16 @@
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaurang-Belekar&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
+
+---
+<hr>
+<h2 align="center">Github Trophies</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Gaurang-Belekar&theme=darkhub">
+</p>
+</br>  
+<hr>
+<h2 align="center">Connect with me on</h2>
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
