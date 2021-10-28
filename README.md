@@ -20,16 +20,73 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-the-badge&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat-the-badge&logo=Java)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat-the-badge&logo=C%&logoColor=00599C)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A??style=flat-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A??style=flat-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat-the-badge&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Qiskit](https://img.shields.io/badge/-Qiskit-05122A?style=flat-the-badge&logo=qiskit&logoColor=2C2255)&nbsp;
-
+<table>
+  <tbody>
+    <tr>
+    <td width="25%" align="center">
+        <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
+        <br>
+----      
+        <br>
+        <span>C++</span>
+      </td>
+     <td width="25%" align="center">
+        <img height="58px" src="https://ludu-assets.s3.amazonaws.com/course-icons/26/urA5bRhIewsQ2LgxuCu2">
+        <br>
+       ----
+        <br>
+        <span>C</span>
+       </td>
+     <td width="25%" align="center">
+        <img height="64px" src="https://content.instructables.com/ORIG/FRG/UD6Q/GXUYU19R/FRGUD6QGXUYU19R.jpg?auto=webp">
+        <br>
+----      
+        <br>
+        <span>JAVA</span>
+      </td>
+    <td width="25%" align="center">
+        <img height="64px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+      <br>
+      ----
+      <br> 
+     <span>Python</span>
+      </td>
+    </tr>
+    <tr>
+    <td width="25%" align="center">
+        <img height="64px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+      <br>
+      ----
+      <br>
+      <span>Git</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
+        <br>
+        ----
+        <br>
+        <span>JavaScript</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
+        <br>
+        ----
+        <br>
+        <span> NodeJS </span>
+      </td>
+       <td width="25%" align="center">
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
+        <br>
+         ----
+         <br>
+        <span>MongoDb Atlas</span>
+      </td>
+    </tr>
+    <tr>
+      
+    </tr>
+  </tbody>
+</table>
 
 ---
 
