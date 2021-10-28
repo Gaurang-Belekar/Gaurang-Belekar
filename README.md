@@ -83,7 +83,50 @@
       </td>
     </tr>
     <tr>
-      
+       <td width="25%" align="center">
+        <img height="64px" src="https://miro.medium.com/max/235/1*7NZPJuODqdCtmO8Ed-9IwA.gif">
+        <br>
+         ----
+         <br>
+        <span>Qiskit</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://quantum-computing.ibm.com/_nuxt/img/main.fc0224b.png">
+        <br>
+         ----
+         <br>
+        <span>IBM Quantum Composer</span>
+      </td>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
+        <br>
+         ----
+         <br>
+        <span>Linux</span>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <img height="64px" src="https://media0.giphy.com/media/a7Ik5hjrFQuxiPKFZO/200w.gif">
+        <br>
+         ----
+         <br>
+        <span>Ardiuno</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzTW2paLHbPFvttud071cu-cZdEbsp3RmziSnB7L4IAl7rH-XOL3dkHiR0nnhvUr0IPs&usqp=CAU">
+        <br>
+         ----
+         <br>
+        <span>Raspberry Pi</span>
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://secure.meetupstatic.com/photos/event/d/4/b/d/600_489894461.jpeg">
+        <br>
+         ----
+         <br>
+        <span>ROS</span>
+      </td>
     </tr>
   </tbody>
 </table>
