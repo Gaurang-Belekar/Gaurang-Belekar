@@ -1,6 +1,6 @@
 ### 👋🏼 Hi! Welcome to my Github Profile
 
-<h1 align="center"> Gaurang Belekar - GB</h1>
+<h1 align="center"> Gaurang Belekar</h1>
 
 ---
 
