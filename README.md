@@ -8,7 +8,7 @@
 
 🎓 &nbsp;I'm a Electronic and Communication Student at IIIT Dharwad, Karnataka .\
 🌱 &nbsp;I'm a Currently a 3rd year student, mastering my skills in Quantum Computing, Machine Learning and Deep Learning.\
-🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning Deep Learning and its potential appliaction in Quantum Computing.
+🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning Deep Learning and its potential appliaction in Quantum Computing. \
 ✍️ &nbsp;I play Table Tenis and love to do Yoga in my Free Time.\
 ✉️ &nbsp;You can connect wit me via email at belekargaurang@gmail.com! I'll try to respond as soon as I can. 
 
@@ -20,119 +20,48 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<table>
-  <tbody>
-    <tr>
-    <td width="25%" align="center">
-        <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
-        <br>
-----      
-        <br>
-        <span>C++</span>
-      </td>
-     <td width="25%" align="center">
-        <img height="58px" src="https://ludu-assets.s3.amazonaws.com/course-icons/26/urA5bRhIewsQ2LgxuCu2">
-        <br>
-       ----
-        <br>
-        <span>C</span>
-       </td>
-     <td width="25%" align="center">
-        <img height="64px" src="https://content.instructables.com/ORIG/FRG/UD6Q/GXUYU19R/FRGUD6QGXUYU19R.jpg?auto=webp">
-        <br>
-----      
-        <br>
-        <span>JAVA</span>
-      </td>
-    <td width="25%" align="center">
-        <img height="64px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
-      <br>
-      ----
-      <br> 
-     <span>Python</span>
-      </td>
-    </tr>
-    <tr>
-    <td width="25%" align="center">
-        <img height="64px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
-      <br>
-      ----
-      <br>
-      <span>Git</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-        <br>
-        ----
-        <br>
-        <span>JavaScript</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
-        <br>
-        ----
-        <br>
-        <span> NodeJS </span>
-      </td>
-       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
-        <br>
-         ----
-         <br>
-        <span>MongoDb Atlas</span>
-      </td>
-    </tr>
-    <tr>
-       <td width="25%" align="center">
-        <img height="64px" src="https://miro.medium.com/max/235/1*7NZPJuODqdCtmO8Ed-9IwA.gif">
-        <br>
-         ----
-         <br>
-        <span>Qiskit</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://quantum-computing.ibm.com/_nuxt/img/main.fc0224b.png">
-        <br>
-         ----
-         <br>
-        <span>IBM Quantum Composer</span>
-      </td>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
-        <br>
-         ----
-         <br>
-        <span>Linux</span>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://media0.giphy.com/media/a7Ik5hjrFQuxiPKFZO/200w.gif">
-        <br>
-         ----
-         <br>
-        <span>Ardiuno</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzTW2paLHbPFvttud071cu-cZdEbsp3RmziSnB7L4IAl7rH-XOL3dkHiR0nnhvUr0IPs&usqp=CAU">
-        <br>
-         ----
-         <br>
-        <span>Raspberry Pi</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://secure.meetupstatic.com/photos/event/d/4/b/d/600_489894461.jpeg">
-        <br>
-         ----
-         <br>
-        <span>ROS</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp; 
+
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp; 
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)&nbsp;
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)&nbsp;
+![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)&nbsp; 
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255) 
+
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
