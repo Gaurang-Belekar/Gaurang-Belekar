@@ -7,10 +7,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a Electronic and Communication Student at IIIT Dharwad, Karnataka .\
-🌱 &nbsp;I'm a Currently a 2nd year student upgrading my Skills in Qiskit & Quantum Hardware, Networking, Linux Kernal Devlopment, IOT and ROS.\
-🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning QC.
-✍️ &nbsp;I play Guitar or do Yoga in my Free Time.\
-✉️ &nbsp;You can connect wit me via email at zaz.kem22@gmail.com! I'll try to respond as soon as I can. 
+🌱 &nbsp;I'm a Currently a 3rdd year student, mastering my skills in Quantum Computing, Machine Learning and Deep Learning.\
+🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning Deep Learning and its potential appliaction in Quantum Computing.
+✍️ &nbsp;I play Table Tenis and love to do Yoga in my Free Time.\
+✉️ &nbsp;You can connect wit me via email at belekargaurang@gmail.com! I'll try to respond as soon as I can. 
 
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=Gaurang-Belekar.visitor-badge)
