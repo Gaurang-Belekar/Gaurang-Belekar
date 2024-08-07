@@ -6,9 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a Electronic and Communication Student at IIIT Dharwad, Karnataka .\
-🌱 &nbsp;I'm a Final Year Student, mastering my skills in Quantum Computing, Computer Vision and Deep Learning Applications.\
-🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning Deep Learning and its potential appliaction in Quantum Computing. \
+🎓 &nbsp;I'm a Masters Student at Trinity College Dublin, and Graduated as Gold medalist from IIIT Dharwad, Karnataka .\
+🌱 &nbsp;I'm mastering my skills in Quantum Computing, Compiler Design and Deep Learning Applications.\
+🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring Tensor Networks and Learning Deep Learning and its potential appliaction in Quantum Computing. \
 ✍️ &nbsp;I play Table Tenis and love to go to GYM in my Free Time.\
 ✉️ &nbsp;You can connect wit me via email at belekargaurang@gmail.com! I'll try to respond as soon as I can. 
 
