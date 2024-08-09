@@ -14,7 +14,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/Gaurang-Belekar">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaurang-Belekar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width ="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaurang-Belekar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaurang-Belekar&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
