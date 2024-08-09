@@ -28,10 +28,6 @@
 </br>  
 <hr>
 <h2 align="center">Connect with me on</h2>
-
-
-### &nbsp;Connect with Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/gaurang-belekar-ba27171b7/"><img src="https://img.shields.io/badge/-Gaurang%20Belekar-0077B5?style=flat-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:belekargaurang@gmail.com"><img src="https://img.shields.io/badge/-belekargaurang@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
