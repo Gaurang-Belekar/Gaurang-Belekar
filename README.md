@@ -5,7 +5,7 @@
 
 ###
 <p align="center">
-  Working on Quantum Computing, Compiler Design and Deep Learning Applications.
+  Working on Quantum Computing and Deep Learning Applications.
 </p>
 
 
